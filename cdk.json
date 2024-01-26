@@ -1,0 +1,10 @@
+{
+    "app": "python3 app.py",
+    "versionReporting": false,
+    "requireApproval": "never",
+    "context": {
+      "owner": "Dhanyal",
+      "github_profile": "https://github.com/TagDhanyal",
+      "service_name": "secure-private-api-deployment"
+    }
+  }
