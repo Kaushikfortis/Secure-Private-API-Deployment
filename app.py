@@ -35,7 +35,7 @@ Private_secured_api = SecurePrivateApiStack(
     description="Secure your API by create private EndPoint to make it accessible from your VPCs"
 )
 
-# Launch an EC2 Instance in a given VPC
+# Launch an EC2 Instance in a given VPC(Need to import BOto3) 
 api_consumer_stack = ApiConsumerStack(
     app,
     "api-consumer",
