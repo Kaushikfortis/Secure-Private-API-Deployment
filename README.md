@@ -4,7 +4,7 @@ The Secure Private API Deployment project showcases the ability to securely depl
 
 ![Secure Private API Architecture](architecture.png)
 
-## Description
+## Description  
 
 The Secure Private API Deployment project utilizes AWS CDK to create an infrastructure stack called "SecurePrivateApiStack". This stack deploys the necessary AWS resources to establish a secure private API. The key components of the project include:
 
